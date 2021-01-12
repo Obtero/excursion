@@ -1,3 +1,57 @@
-/*
-This is the completion to the redline for the css side of this project
-*/
+.top{
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.ex1 {
+    color: rgb(4, 20, 245);
+    font-size: 12px;
+    text-align: center;
+
+}
+#video{
+    text-align: center;
+}
+#body{
+    background-color: black;
+}
+
+.section{
+   text-align: center;
+   font-family: Verdana;
+   font-weight: 300;
+   font-size: 42px;
+   color: snow;
+}
+
+.div{
+    text-align: center;
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+#pic1{
+    text-align: center;
+}
+#pic2{
+    text-align: center;
+}
+.span{
+    text-align: center;
+    text-shadow: rgb(0, 0, 0);
+    color: white;
+    font-size: 30px;
+}
+.ex2{
+    color:rgb(4, 0, 255);
+    font-size: 12px;
+    text-align: center;
+}
+.bottom{
+    text-align: right;
+    color: white;
+    font-weight: 300;
+    font-size: small;
+}
